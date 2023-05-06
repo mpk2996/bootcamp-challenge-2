@@ -97,7 +97,7 @@ nav ul li a{
     margin-bottom: 10px;
     height: 400px;
     width: 300px;
-    background-image: url("../images/MK-Headshot.jpg");
+    background-image: url("/Main/assets/images/MK-Headshot.jpg");
     background-size: cover;
     background-position: center;
     padding: 20px 10px;
